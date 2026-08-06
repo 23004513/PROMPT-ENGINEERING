@@ -72,8 +72,10 @@ Step 7: Finalize and Export
 ---
 
 # Output
-[Uploading prompt.pdf…]()
 
+
+
+[prompt.pdf](https://github.com/user-attachments/files/30799387/prompt.pdf)
 
 # Result
 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs) has been completed successfully.
